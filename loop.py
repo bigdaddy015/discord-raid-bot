@@ -1,3 +1,6 @@
+""" for the video on this bot paste this link in your browser https://www.youtube.com/watch?v=apbaN9UZqR8 """
+
+
 import discord
 from discord.ext import commands
 from random import choice
