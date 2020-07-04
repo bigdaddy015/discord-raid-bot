@@ -152,4 +152,4 @@ async def ad(ctx, *, amount: int = 10):
 
 
 
-client.run("your bot token)           
+client.run("your bot token")           
